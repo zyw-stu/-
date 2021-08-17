@@ -21,3 +21,7 @@
 
 
 为了帮助自己理解数据结构，树之前的内容都在在亿图图示上画了原理图帮助自己理解（后来复习不完了，就在博客上找的图~）。
+下面是一些图的概览，高清图片资源在本仓库的“图解数据结构”中
+![](https://github.com/zyw-stu/-DataStructure_ReviewNotes/blob/master/Saved%20Pictures/16.jpg)<br>
+![](https://github.com/zyw-stu/-DataStructure_ReviewNotes/blob/master/Saved%20Pictures/17.jpg)<br>
+![](https://github.com/zyw-stu/-DataStructure_ReviewNotes/blob/master/Saved%20Pictures/18.jpg)<br>
